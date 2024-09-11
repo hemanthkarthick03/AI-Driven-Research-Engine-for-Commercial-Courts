@@ -1,5 +1,8 @@
 # AI-Driven-Research-Engine-for-Commercial-Courts
 
+[![Explore the Demo](https://img.shields.io/badge/Explore%20the%20Demo%20-%E2%9C%94-green)](https://huggingface.co/spaces/hemanthkarthick03/Research-Agent-of-Commercial-Courts)
+
+
 # 📜 **Research Agent of Commercial Courts** 🏛️
 
 Welcome to the **Research Agent for Commercial Courts** project! This tool leverages the power of **InLegalBERT**, a fine-tuned language model specifically designed for the Indian legal system, to assist users in navigating commercial court-related legal documents with ease. This project is deployed using **Gradio** for an interactive user experience.
